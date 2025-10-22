@@ -1,0 +1,11 @@
+{
+  "conversation_id": "conv_001",
+  "messages": [
+    {"sender": "user", "text": "Hi, I'm looking for a 2BHK in Dubai"},
+    {"sender": "agent", "text": "Great! Any specific area in mind?"},
+    {"sender": "user", "text": "Preferably Marina or JVC"},
+    {"sender": "agent", "text": "What's your budget?"},
+    {"sender": "user", "text": "Max 120k. Can we do a site visit this week?"}
+  ]
+}
+

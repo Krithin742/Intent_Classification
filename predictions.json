@@ -1,0 +1,7 @@
+[
+  {
+    "conversation_id": "conv_001",
+    "predicted_intent": "Product Inquiry",
+    "rationale": "The customer was inquiring about products, services, or availability. Last message: 'max 120k. can we do a site visit?'"
+  }
+]
